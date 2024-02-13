@@ -1,0 +1,19 @@
+body 
+  {
+    background-color: #1695A3;
+    color: #FFFFFF;
+  }
+p
+  {
+    color: #EB7F00;
+    font-size: 40px;
+    font-weight: 800;
+  }
+h3 
+  {
+    text-align: center;
+  }
+div.google a
+  {
+    text-decoration: none;
+  }
